@@ -3,4 +3,8 @@
 .DS_Store
 .vscode
 .vscode-test
-yarn-error.log
+yarn-error.
+yarn.lock
+```
+
+node_modules/
